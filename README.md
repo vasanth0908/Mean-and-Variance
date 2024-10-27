@@ -1,7 +1,7 @@
 #  Mean and variance of a discrete  distribution
 
 # Name: vasanth
-# Register No :21222211052
+# Register No :212222110052
 
 # Aim : 
 
