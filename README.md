@@ -1,5 +1,4 @@
-#  Mean and variance of a discrete  distribution
-
+# Mean and variance of a discrete  distribution
 # Name: vasanth
 # Register No :212222110052
 
